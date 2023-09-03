@@ -1,6 +1,3 @@
 # Blocking detection
 
-### blocking_dectection_iteration_one.ipynb
-This file is my first attempt at modifying a simple classification tutorial(on Google Colab) using Keras, a high-level neural network library that runs on top of TensorFlow, into a camera-blocking detection in-car dashboard camera.
-
-### blocking_dectection_final_model.ipynb
+Link to the [ETP Documentation](https://docs.google.com/document/d/1-od1qLMhCrUvekMuvJncEyzjsY7e7EgJN6wL2lsTYro/edit?usp=sharing)
