@@ -49,3 +49,4 @@ fm > 640 -> The image has enough information and is considered not blur.
 
 *fm score = Blur Score
 *exceptions can occur.
+0 is whites in the image that is blur/ blur images and 1> is sharp images with defined borders that is not blur 
